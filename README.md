@@ -1,0 +1,1 @@
+This node is part of a wireless embedded project called Smarthome with 4 devices. This node is responsible for reading the temperature - humidity sensor and controlling the fan, setting a timer to turn the fan on and off.
